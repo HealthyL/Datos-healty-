@@ -1,53 +1,5 @@
 {
-  "objectives": [
-    {
-      "id": "1",
-      "name": "Pérdida de peso"
-    },
-    {
-      "id": "2",
-      "name": "Aumento de masa muscular"
-    },
-    {
-      "id": "3",
-      "name": "Mejora de la resistencia"
-    }
-  ],
-  "users": [
-    {
-      "id": "1",
-      "name": "Juelita Venegas",
-      "age": "25",
-      "weight": 69,
-      "height": 170,
-      "email": "americanagirl@outlook.com",
-      "statistics": {
-        "proteins": 200,
-        "calories": 3000,
-        "fats": 100,
-        "carbohydrates": 400,
-        "saturated": 30
-      },
-      "objectiveId": "Pérdida de peso"
-    },
-    {
-      "id": "2",
-      "name": "Jorge Pérez",
-      "age": "30",
-      "weight": "80",
-      "height": "180",
-      "email": "jorgeperez@uwu.com",
-      "statistics": {
-        "proteins": 200,
-        "calories": 3000,
-        "fats": 100,
-        "carbohydrates": 400,
-        "saturatedfats": 30
-      },
-      "objectiveId": "2"
-    }
-  ],
-  "products": [
+    "products": [
     {
       "id": "1",
       "name": "Protein Powder",
