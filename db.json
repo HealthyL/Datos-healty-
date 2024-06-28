@@ -104,19 +104,5 @@
       "weight": "0kg",
       "rutineId": 3
     }
-  ],
-  "rutine": [
-    {
-      "id": "1",
-      "name": "Femorales y gluteos"
-    },
-    {
-      "id": "2",
-      "name": "Pectorales"
-    },
-    {
-      "id": "3",
-      "name": "Espalda"
-    }
   ]
 }
