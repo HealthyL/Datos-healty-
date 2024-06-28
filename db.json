@@ -1,18 +1,4 @@
 {
-  "objectives": [
-    {
-      "id": "1",
-      "name": "Pérdida de peso"
-    },
-    {
-      "id": "2",
-      "name": "Aumento de masa muscular"
-    },
-    {
-      "id": "3",
-      "name": "Mejora de la resistencia"
-    }
-  ],
   "genders": [
     {
       "id": "1",
