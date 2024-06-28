@@ -23,20 +23,6 @@
       "name": "Masculino"
     }
   ],
-  "users": [
-    {
-      "username": "Barbs",
-      "email": "americanagirl@holiiiiiiiiiiiiiiiiiiii.com",
-      "birthdate": "2024-06-27",
-      "gender": "",
-      "objective": {
-        "id": "1",
-        "name": "Pérdida de peso"
-      },
-      "password": "",
-      "id": "1"
-    }
-  ],
   "products": [
     {
       "id": "1",
@@ -44,14 +30,6 @@
       "description": "Protein powder supplement to enhance performance and muscle recovery.",
       "price": "$35.00",
       "photoUrl": "https://macro1nutrition.com/cdn/shop/products/ChocolateProductPhotoTransparent.png?v=1652199838",
-      "categoryId": 1
-    },
-    {
-      "id": "2",
-      "name": "Energy Bars",
-      "description": "Energy bars with high protein and fiber content.",
-      "price": "$3.00",
-      "photoUrl": "https://www.proathlix.com/blog/wp-content/uploads/2023/04/Image1-1024x1024.jpg",
       "categoryId": 1
     },
     {
@@ -63,27 +41,11 @@
       "categoryId": 2
     },
     {
-      "id": "5",
-      "name": "Jump Rope",
-      "description": "Adjustable jump rope, ideal for cardio exercises and high-intensity training.",
-      "price": "$6.00",
-      "photoUrl": "https://www.gaiam.com/cdn/shop/products/05-64484_GAIAM-WEIGHTED-JUMP-ROPE_A.jpg?v=1635877894",
-      "categoryId": 2
-    },
-    {
       "id": "7",
       "name": "Adjustable Dumbbells",
       "description": "Adjustable dumbbells from 2 to 20kg, ideal for strength and resistance exercises.",
       "price": "$90.00",
       "photoUrl": "https://www.powertrain.com.au/media/catalog/product/cache/664/90/r/e/red.jpg",
-      "categoryId": 3
-    },
-    {
-      "id": "8",
-      "name": "Resistance Band",
-      "description": "Elastic resistance band for strength, flexibility, and rehabilitation exercises.",
-      "price": "$7.00",
-      "photoUrl": "https://cdn.shopify.com/s/files/1/0461/7948/3807/products/OK1925-3_1200x1200.jpg?v=1629434339",
       "categoryId": 3
     }
   ],
@@ -110,20 +72,6 @@
       "classificationId": 1
     },
     {
-      "id": "2",
-      "name": "Tortitas de avenita",
-      "description": "2 huevos medianos, 60 gr. de copos de avena, 5 gr. de levadura química y leche",
-      "photoUrl": "https://github.com/HealthyL/images/assets/131493394/903d200c-6e34-4cd1-be82-5323c35d370a",
-      "classificationId": 1
-    },
-    {
-      "id": "3",
-      "name": "Yogur con pera, plátano y frutos secos",
-      "description": "Pera, Frutos Secos, Miel y Yogur",
-      "photoUrl": "https://github.com/HealthyL/images/assets/131493394/4643ef01-d594-43ab-be9c-5c08ded18a5b",
-      "classificationId": 1
-    },
-    {
       "id": "7",
       "name": "Ensalada de atún con arroz integral",
       "description": "Si tienes poco tiempo para cocinar, esta receta de ensalada de atún.",
@@ -131,38 +79,10 @@
       "classificationId": 2
     },
     {
-      "id": "8",
-      "name": "Salteado de garbanzos con pollo y verduras\n",
-      "description": "Los salteados es la mejor técnica de cocina para comer cosas ricas de una forma saludable.",
-      "photoUrl": "https://github.com/HealthyL/images/assets/131493394/a5b4564b-3099-4215-95c9-b1469930eaa0",
-      "classificationId": 2
-    },
-    {
-      "id": "9",
-      "name": "Canutos con pechuga de pavo",
-      "description": "Este plato es delicioso y equilibrado. Tiene proteínas, carbohidratos y verduras, todo lo que necesitamos para recargar energía.",
-      "photoUrl": "https://github.com/HealthyL/images/assets/131493394/f98bb6d4-27f4-4bc2-8f1b-a4077299128c",
-      "classificationId": 2
-    },
-    {
       "id": "13",
       "name": "Calabacines al parmesano",
       "description": "Copos de maíz o avena, Leche de vaca  o leche de almendras y puedes elegir entre plátanos, fresas o arándanos",
       "photoUrl": "https://github.com/HealthyL/images/assets/131493394/6d5dbdf3-cf24-428b-9698-db292f95a00c",
-      "classificationId": 3
-    },
-    {
-      "id": "14",
-      "name": "Alcachofas con apio y manzanas",
-      "description": "100 gramos de lechugas variadas, 2 pencas de apio, 2 alcachofas y 1 manzana",
-      "photoUrl": "https://github.com/HealthyL/images/assets/131493394/0ae21aa8-06b0-4468-a853-0c8dad712650",
-      "classificationId": 3
-    },
-    {
-      "id": "15",
-      "name": "Pollo a la plancha con lima",
-      "description": "4 filetes de pechuga de pollo, 3 limas y 2 dientes de ajo",
-      "photoUrl": "https://github.com/HealthyL/images/assets/131493394/07776dae-90be-4553-adb3-c327b5580ff3",
       "classificationId": 3
     }
   ],
@@ -191,17 +111,6 @@
       "rutineId": 1
     },
     {
-      "id": "3",
-      "name": "Puente de glúteo",
-      "photoUrl": "https://kit8.net/wp-content/uploads/2020/12/gym@2x.png",
-      "sets": "3",
-      "reps": "20",
-      "weight": "0kg",
-
-
-      "rutineId": 1
-    },
-    {
       "id": "4",
       "name": "Press de banca",
       "photoUrl": "https://static.vecteezy.com/system/resources/thumbnails/005/024/692/small_2x/man-workout-in-gym-for-healthy-llifestyle-free-vector.jpg",
@@ -209,24 +118,6 @@
       "reps": "10",
       "weight": "20kg",
       "rutineId": 2
-    },
-    {
-      "id": "5",
-      "name": "Aperturas con mancuernas",
-      "photoUrl": "https://static.vecteezy.com/system/resources/thumbnails/005/024/692/small_2x/man-workout-in-gym-for-healthy-llifestyle-free-vector.jpg",
-      "sets": "3",
-      "reps": "12",
-      "weight": "10kg",
-      "rutineId": 2
-    },
-    {
-      "id": "7",
-      "name": "Remo con barra",
-      "photoUrl": "",
-      "sets": "4",
-      "reps": "10",
-      "weight": "20kg",
-      "rutineId": 3
     },
     {
       "id": "8",
@@ -250,23 +141,6 @@
     {
       "id": "3",
       "name": "Espalda"
-    }
-  ],
-  "plans": [
-    {
-      "id": "1",
-      "name": "Nutri Plan",
-      "description": "Un enfoque integral para la nutrición que no solo se centra en la alimentación, sino también en la importancia del equilibrio emocional y el bienestar mental para una vida plena y saludable."
-    },
-    {
-      "id": "2",
-      "name": "Fit Plan",
-      "description": "Se enfoca exclusivamente en proporcionar planes de entrenamiento, rutinas, consejos de ejercicio y seguimiento de progreso para ayudar a las personas a alcanzar sus metas fitness."
-    },
-    {
-      "id": "3",
-      "name": "Nutri Fit Plan",
-      "description": "Combina lo mejor de ambos mundos, planes de entrenamiento personalizados, y asesoramiento experto sobre nutrición, recetas saludables y seguimiento de progreso integral para lograr resultados óptimos."
     }
   ]
 }
