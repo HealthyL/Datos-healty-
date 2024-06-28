@@ -189,7 +189,7 @@
       "reps": "15",
       "weight": "5kg",
       "rutineId": 1
-    }
+    },
     {
       "id": "3",
       "name": "Puente de glúteo",
@@ -197,6 +197,8 @@
       "sets": "3",
       "reps": "20",
       "weight": "0kg",
+
+
       "rutineId": 1
     },
     {
